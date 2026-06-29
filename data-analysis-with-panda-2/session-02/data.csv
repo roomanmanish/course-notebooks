@@ -1,0 +1,13 @@
+Customer ID,First Name,Last Name,Email,Phone,Sign Up Date,Age
+101,John,Doe,john.doe@example.com,555-1234,2023-01-15,28
+102,Jane,Smith,,555-5678,2023/02/20,34
+103,Bob,Johnson,bob.j@example.com,,2023-03-10,45
+104,Alice,Williams,,N/A,2023/04/05,29
+105,Charlie,Brown,charlie@example.com,555-9999,2023-05-12,
+106,Diana,Davis,,,2023/06/18,31
+107,Eve,Miller,eve.m@example.com,555-4321,2023-07-22,27
+108,Frank,Wilson,,555-8765,2023/08/30,52
+109,Grace,Moore,grace@example.com,555-2468,2023-09-14,38
+110,Henry,Taylor,henry.t@example.com,,2023/10/25,41
+111,Ivy,Anderson,,555-1357,2023-11-08,26
+112,Jack,Thomas,jack@example.com,555-7890,2023/12/19,33
