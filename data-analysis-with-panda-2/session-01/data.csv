@@ -1,0 +1,16 @@
+transaction_id,date,product,quantity,price,region
+1,2024-01-01,Widget,10,5.99,North
+2,2024-01-02,Gadget,5,12.50,South
+3,2024-01-03,Widget,8,5.99,East
+4,2024-01-04,Doohickey,3,25.00,West
+5,2024-01-05,Gadget,12,12.50,North
+6,2024-01-06,Widget,2,5.99,South
+7,2024-01-07,Thingamajig,7,8.75,East
+8,2024-01-08,Doohickey,4,25.00,West
+9,2024-01-09,Widget,15,5.99,North
+10,2024-01-10,Gadget,6,12.50,South
+11,2024-01-11,Thingamajig,9,8.75,East
+12,2024-01-12,Widget,1,5.99,West
+13,2024-01-13,Doohickey,11,25.00,North
+14,2024-01-14,Gadget,4,12.50,South
+15,2024-01-15,Thingamajig,13,8.75,East
