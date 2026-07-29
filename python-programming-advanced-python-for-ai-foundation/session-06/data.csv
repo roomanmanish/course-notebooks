@@ -1,0 +1,16 @@
+transaction_id,date,customer_id,customer_segment,region,product_category,amount,order_date
+1,2024-01-05,C001,Premium,North,Electronics,450.50,2024-01-05
+2,2024-01-06,C002,Standard,South,Clothing,120.75,2024-01-06
+3,2024-01-07,C003,Basic,East,Home,45.00,2024-01-07
+4,2024-01-08,C001,Premium,North,Electronics,450.50,2024-01-08
+5,2024-01-09,C004,,West,Electronics,320.00,2024-01-09
+6,2024-01-10,C005,Standard,South,Clothing,,2024-01-10
+7,2024-01-11,C006,Basic,East,Home,55.25,2024-01-11
+8,2024-01-12,C007,Premium,North,Electronics,480.00,2024-01-12
+9,2024-01-13,C008,Standard,South,,95.50,2024-01-13
+10,2024-01-14,C009,Basic,East,Home,62.00,2024-01-14
+11,2024-01-15,C010,Premium,North,Electronics,510.75,2024-01-15
+12,2024-01-16,C002,Standard,South,Clothing,125.00,2024-01-16
+13,2024-01-17,C003,Basic,East,Home,48.50,2024-01-17
+14,2024-01-18,C004,Premium,West,Electronics,350.00,2024-01-18
+15,2024-01-19,C005,Standard,South,Clothing,130.25,2024-01-19
