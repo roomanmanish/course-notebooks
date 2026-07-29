@@ -1,0 +1,11 @@
+customer_id,email,phone,amount
+1,alice@example.com,5551234567,150.50
+2,bob@invalid,5559876543,200.00
+3,charlie@test.org,555123456,75.25
+4,diana@company.co.uk,5551111111,300.00
+5,eve@example.com,5552222222,invalid_amount
+6,frank.smith@domain.org,5553333333,99.99
+7,grace@,5554444444,50.00
+8,henry@test.net,555555555,125.75
+9,iris@valid.io,5556666666,200.50
+10,jack@example.com,invalid_phone,175.00
