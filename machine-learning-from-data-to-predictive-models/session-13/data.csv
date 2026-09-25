@@ -1,0 +1,16 @@
+id,tenure_months,monthly_charges,total_charges,contract_type,support_calls,churn
+1,2,70.5,141.0,Month-to-month,5,1
+2,34,89.0,3026.0,One year,1,0
+3,58,20.5,1189.0,Two year,0,0
+4,4,95.0,380.0,Month-to-month,6,1
+5,12,55.0,660.0,Month-to-month,2,0
+6,45,65.0,2925.0,One year,1,0
+7,2,90.0,180.0,Month-to-month,7,1
+8,70,25.0,1750.0,Two year,0,0
+9,8,75.0,600.0,Month-to-month,4,1
+10,23,60.0,1380.0,One year,2,0
+11,3,88.0,264.0,Month-to-month,5,1
+12,60,30.0,1800.0,Two year,1,0
+13,15,68.0,1020.0,Month-to-month,3,0
+14,50,45.0,2250.0,One year,0,0
+15,5,92.0,460.0,Month-to-month,6,1
