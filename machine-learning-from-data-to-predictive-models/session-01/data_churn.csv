@@ -1,0 +1,16 @@
+customer_id,tenure_months,monthly_charges,contract_type,support_calls,churn
+1,2,75.5,Month-to-month,5,Yes
+2,34,56.3,One-year,1,No
+3,1,90.0,Month-to-month,6,Yes
+4,45,42.1,Two-year,0,No
+5,8,80.2,Month-to-month,4,Yes
+6,60,39.9,Two-year,0,No
+7,3,85.0,Month-to-month,5,Yes
+8,22,60.0,One-year,2,No
+9,5,95.5,Month-to-month,7,Yes
+10,50,45.0,Two-year,1,No
+11,12,70.0,One-year,3,No
+12,4,88.0,Month-to-month,6,Yes
+13,40,50.0,Two-year,0,No
+14,6,78.0,Month-to-month,4,Yes
+15,15,65.0,One-year,2,No
