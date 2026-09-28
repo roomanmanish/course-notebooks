@@ -1,0 +1,13 @@
+doc_id,text
+1,"Document loading and preprocessing is the first step of a retrieval pipeline. Raw text is read from files or databases, cleaned of noise such as extra whitespace, and normalized before it can be chunked."
+2,"Fixed-size chunking splits a document into pieces of a set number of words or tokens. It is simple to implement and works well as a baseline strategy for many retrieval tasks."
+3,"Chunk overlap means that consecutive chunks share a few words at their boundary. This helps preserve context that would otherwise be lost when a sentence is cut in half between two chunks."
+4,"Semantic boundary chunking splits text at natural breakpoints such as paragraphs or sentences instead of a fixed word count, which can produce chunks that are easier for a language model to reason about."
+5,"Vector embeddings represent a piece of text as a list of numbers in a high dimensional space, where pieces of text with similar meaning end up close together in that space."
+6,"Cosine similarity measures the angle between two vectors and is the most common way to compare embeddings for similarity search. A score close to 1 means the vectors point in nearly the same direction, while a score close to 0 means they are unrelated."
+7,"A vector store is a database that holds chunk embeddings alongside their original text, allowing a query embedding to be compared quickly against every stored chunk."
+8,"Top-k retrieval returns the k chunks whose embeddings are most similar to the query embedding. Choosing a larger k gives the language model more context but also increases the risk of including irrelevant information."
+9,"Chunk size has a direct tradeoff with retrieval quality. Very small chunks may lack enough context on their own, while very large chunks can dilute the relevant information with unrelated text."
+10,"Irrelevant retrieved chunks happen when the similarity search returns text that does not actually answer the query, often because the chunk boundaries split up related ideas."
+11,"Missing context in a RAG system occurs when none of the retrieved chunks contain the specific fact needed to answer the question, even though the answer exists somewhere in the corpus."
+12,"Redundant chunks appear when overlapping or duplicate passages from the corpus are retrieved together, wasting space in the context window without adding new information."
