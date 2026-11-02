@@ -1,0 +1,13 @@
+metric,region,quarter,dashboard_value
+total_revenue,All,All,9770.48
+average_order_value,All,All,651.00
+region_revenue,North,All,3238.98
+region_revenue,South,All,3543.00
+region_revenue,East,All,1520.00
+region_revenue,West,All,1486.50
+quarter_revenue,All,Q1,2304.98
+quarter_revenue,All,Q2,3264.50
+quarter_revenue,All,Q3,1133.00
+quarter_revenue,All,Q4,1870.00
+filtered_revenue,North,Q2,899.00
+filtered_revenue,South,Q4,1250.00
