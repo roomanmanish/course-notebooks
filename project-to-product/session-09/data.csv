@@ -1,0 +1,15 @@
+task_id,team,status,hours_logged,cost_inr
+T001,Marketing,Done,12,15000
+T002,Marketing,In Progress,8,9000
+T003,Finance,Done,20,24000
+T004,Finance,Blocked,5,6000
+T005,Operations,Done,15,18000
+T006,Operations,In Progress,10,
+T007,Operations,Done,7,8400
+T008,Marketing,Done,,11000
+T009,Finance,In Progress,18,21000
+T010,Sales,Done,25,30000
+T011,Sales,Blocked,3,3600
+T012,Sales,Done,14,16800
+T013,Operations,Done,9,10800
+T014,Marketing,Blocked,6,7200
