@@ -1,0 +1,16 @@
+order_id,order_date,region,category,units,unit_price
+1001,2024-01-15,North,Furniture,3,150.00
+1002,2024-02-03,South,Office,10,25.50
+1003,2024-02-20,North,Technology,2,499.99
+1004,2024-03-11,East,Furniture,5,120.00
+1005,2024-04-02,West,Office,8,30.00
+1006,2024-04-18,North,Technology,1,899.00
+1007,2024-05-09,South,Furniture,4,210.00
+1008,2024-05-23,East,Office,12,19.75
+1009,2024-06-14,West,Technology,3,349.50
+1010,2024-07-01,North,Office,6,45.00
+1011,2024-07-19,South,Technology,2,599.00
+1012,2024-08-05,East,Furniture,7,95.00
+1013,2024-09-12,West,Office,9,22.00
+1014,2024-10-07,North,Furniture,2,310.00
+1015,2024-11-21,South,Technology,1,1250.00
