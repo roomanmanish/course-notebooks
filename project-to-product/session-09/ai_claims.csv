@@ -1,0 +1,9 @@
+claim_id,claim_text
+C1,The dataset contains 14 task records.
+C2,The Operations team logged more total hours than the Sales team.
+C3,Every row has a value in every column.
+C4,Tasks marked Blocked were delayed because of vendor payment issues.
+C5,The total hours logged across all tasks is 152.
+C6,Marketing is the most productive team.
+C7,There are exactly 4 distinct teams in the dataset.
+C8,Every task costs exactly 1200 rupees per hour logged.
