@@ -1,0 +1,16 @@
+Order ID, Order Date ,Customer Name,REGION,Product Category,Quantity,Unit Price 
+ORD-1001,2024-01-05,Asha Rao,South,Stationery,3,120
+ORD-1002,2024-01-11,Vikram Shah,West,Electronics,1,15500
+ORD-1003,2024-01-19,Neha Gupta,North,Stationery,10,95
+ORD-1004,2024-02-02,Rahul Menon,South,Furniture,2,4500
+ORD-1005,2024-02-14,Priya Nair,East,Electronics,2,8200
+ORD-1006,2024-02-21,Asha Rao,South,Stationery,5,120
+ORD-1007,2024-03-03,Imran Khan,West,Furniture,1,7800
+ORD-1008,2024-03-09,Neha Gupta,North,Electronics,,9400
+ORD-1009,2024-03-17,Sana Fernandes,East,Stationery,8,75
+ORD-1010,2024-04-01,Vikram Shah,West,Electronics,3,15500
+ORD-1011,2024-04-08,Rahul Menon,South,Furniture,1,4500
+ORD-1012,2024-04-22,Priya Nair,East,Stationery,12,60
+ORD-1013,2024-05-05,Imran Khan,West,Electronics,2,
+ORD-1014,2024-05-12,Sana Fernandes,East,Furniture,1,6900
+ORD-1001,2024-01-05,Asha Rao,South,Stationery,3,120
